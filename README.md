@@ -1,5 +1,6 @@
 # GenshinNote
 IOS 原神小组件
+![genshin_widget_demo](https://user-images.githubusercontent.com/88139975/172760718-92bbc246-fc71-4065-82cd-b2fc59380d1b.jpeg)
 
 
 来自 https://api.kwer.top/genshinNote
